@@ -4,3 +4,6 @@
 [submodule "chat-demo"]
 	path = chat-demo
 	url = https://github.com/dzacarias/chat-demo
+[submodule "async-examples"]
+	path = async-examples
+	url = https://github.com/halgari/clojure-conj-2013-core.async-examples.git
