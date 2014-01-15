@@ -1,6 +1,3 @@
-[submodule "core.async-examples"]
-	path = core.async-examples
-	url = https://github.com/dzacarias/core.async-examples
 [submodule "chat-demo"]
 	path = chat-demo
 	url = https://github.com/dzacarias/chat-demo
