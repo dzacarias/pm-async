@@ -1,6 +1,6 @@
 [submodule "chat-demo"]
-	path = chat-demo
+	path = pm-core.async/chat-demo
 	url = https://github.com/dzacarias/chat-demo
 [submodule "async-examples"]
-	path = async-examples
+	path = pm-core.async/async-examples
 	url = https://github.com/halgari/clojure-conj-2013-core.async-examples.git
